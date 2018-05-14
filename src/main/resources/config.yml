@@ -1,0 +1,7 @@
+# Set this to your discord bot token, guild id and client id
+token: YOUR_TOKEN_HERE
+clientid: YOUR_CLIENTID_HERE
+guild: YOUR_GUILD_HERE
+# permission is a permission name, role is a discord role ID
+permissions:
+  something.permission: 12345

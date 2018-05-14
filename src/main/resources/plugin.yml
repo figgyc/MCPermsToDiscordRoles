@@ -1,0 +1,13 @@
+name: MCPermsToDiscordRoles
+version: 0.1-SNAPSHOT
+author: figgyc
+main: uk.figgyc.mcpermstodiscordroles.Main
+commands:
+  linkdiscord:
+    description: Link your minecraft account to Discord
+    usage: /linkdiscord [code]
+    permission: mcpermstodiscordroles.linkdiscord
+  refreshdiscord:
+    description: Refresh Discord roles
+    usage: /refreshdiscord
+    permission: mcpermstodiscordroles.refreshdiscord
